@@ -18,6 +18,8 @@ test.csv: (1459, 74)
 資料預處理：將原始資料做standardize, log transformation後再做訓練。  
 
 最好的訓練結果：XGBoost + 改善填補缺失值的方法 + randomize CV
+
+## references
 * test1
 Kaggle Competition - House Prices: Advanced Regression Techniques Part1: https://www.youtube.com/watch?v=vtm35gVP8JU  
 github: https://github.com/krishnaik06/Kaggle-Competitions  
