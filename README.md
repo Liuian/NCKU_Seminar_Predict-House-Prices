@@ -2,6 +2,13 @@
 
 This project explores how machine learning can be used to predict house prices based on real-world housing datasets. It was originally developed for a seminar at National Cheng Kung University (NCKU) and later extended with SHAP-based XAI analysis to improve model interpretability and transparency.
 
+## ✨ Project Highlights
+
+- Built ML models (Random Forest, XGBoost) for housing price prediction with strong performance.
+- Applied feature selection and forward/backward strategies to optimize input variables.
+- Extended project with SHAP-based explainability (XAI) for model interpretation.
+- Organized and documented end-to-end workflow for reproducibility and clarity.
+
 ---
 
 ## 📑 Outline
