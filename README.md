@@ -140,7 +140,7 @@ jupyter notebook shap_house_analysis.ipynb
 
 ## Final poster
 
-![Image text](https://github.com/Liuian/House-Prices-Advanced-Regression-Techniques/blob//final_poster.jpg)
+![Image text](https://github.com/Liuian/House-Prices-Advanced-Regression-Techniques/blob/main/final_poster.jpg)
 
 ---
 
