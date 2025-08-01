@@ -1,5 +1,5 @@
 # House-Prices-Advanced-Regression-Techniques
-![Image text](https://github.com/Liuian/House-Prices-Advanced-Regression-Techniques/blob/88518648dc216022d5853a0d57a026df1f2622ec/final_poster.jpg)
+![Image text](https://github.com/Liuian/House-Prices-Advanced-Regression-Techniques/blob/main/final_poster.jpg)
 
 ## Methodology Summary
 
